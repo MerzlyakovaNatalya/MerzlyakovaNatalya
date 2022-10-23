@@ -30,5 +30,5 @@
 ### Связаться со мной легко:
 ![telephone](https://img.shields.io/badge/-telephone-cc3300?style=plastic&logo=telephone)
 
-![img](https://github.com/MerzlyakovaNatalya/MerzlyakovaNatalya/blob/main/assets/phone.svg) +7 (915) 195-81-27
+![img](https://github.com/MerzlyakovaNatalya/MerzlyakovaNatalya/blob/main/assets/phone.jpg) +7 (915) 195-81-27
 
