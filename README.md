@@ -28,5 +28,6 @@
 ![MUI](https://img.shields.io/badge/-MUI-cc3300?style=plastic&logo=MUI)
 
 ### Связаться со мной легко:
-![img](https://github.com/MerzlyakovaNatalya/MerzlyakovaNatalya/blob/main/assets/phone.svg) +7 (915) 195-81-27
+![img](https://github.com/MerzlyakovaNatalya/MerzlyakovaNatalya/blob/main/assets/phone.jpg) +7 (915) 195-81-27
+
 
