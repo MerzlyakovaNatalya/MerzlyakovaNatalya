@@ -18,4 +18,4 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000099?style=for-the-badge&logo=Bootstrap)
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-ffcc00?style=for-the-badge&logo=appveyor)
 
-<p>Не люблю стоять на месте! Дополнительно практиковала знания **Vue.js, Node.js, Jasmine, Webpack, PHP, Firebase, MUI**.<p>
+<p>Не люблю стоять на месте! Дополнительно практиковала знания <span style="color: red; font-size: 2em">Vue.js, Node.js, Jasmine, Webpack, PHP, Firebase, MUI<span>.<p>
