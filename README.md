@@ -3,7 +3,7 @@
 ## Привет всем!
 Я Фронтэнд-разработчик, программист, который занимается разработкой пользовательского интерфейса сайта и отвечает за единообразное отображение web-страниц в любом браузере.
 
-####Технологии и знания, которые я часто использую в работе:
+#### Технологии и знания, которые я часто использую в работе:
 
 ![Flutter](https://img.shields.io/badge/-JavaScript-000099?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000066?style=for-the-badge&logo=React)
@@ -18,7 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000099?style=for-the-badge&logo=Bootstrap)
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-ffcc00?style=for-the-badge&logo=appveyor)
 
-####Не люблю стоять на месте! Дополнительно практиковала знания:
+#### Не люблю стоять на месте! Дополнительно практиковала знания:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-cc3300?style=plastic&logo=Vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-cc3300?style=plastic&logo=Node.js)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-cc3300?style=plastic&logo=Jasmine)
