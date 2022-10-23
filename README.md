@@ -4,6 +4,7 @@
 Я Фронтэнд-разработчик, программист, который занимается разработкой пользовательского интерфейса сайта и отвечает за единообразное отображение web-страниц в любом браузере.
 
 ####Технологии и знания, которые я часто использую в работе:
+
 ![Flutter](https://img.shields.io/badge/-JavaScript-000099?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000066?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-333399?style=for-the-badge&logo=Redux)
