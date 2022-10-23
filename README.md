@@ -18,3 +18,5 @@
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-ffcc00?style=for-the-badge&logo=appveyor)
 
 Не люблю стоять на месте! Дополнительно практиковала знания **Vue.js, Node.js, Jasmine, Webpack, PHP, Firebase, MUI**.
+
+<p>Не люблю стоять на месте! Дополнительно практиковала знания <span style="color: blue; font-weight: bold">Vue.js, Node.js, Jasmine, Webpack, PHP, Firebase, MUI</span>.</p>
