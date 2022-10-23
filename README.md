@@ -27,3 +27,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-cc3300?style=plastic&logo=Firebase)
 ![MUI](https://img.shields.io/badge/-MUI-cc3300?style=plastic&logo=MUI)
 
+### Связаться со мной легко:
+![img](https://github.com/MerzlyakovaNatalya/MerzlyakovaNatalya/blob/main/assets/phone.svg) +7 (915) 195-81-27
+
