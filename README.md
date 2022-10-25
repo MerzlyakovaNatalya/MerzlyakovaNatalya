@@ -8,6 +8,7 @@
 ![Flutter](https://img.shields.io/badge/-JavaScript-000099?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000066?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-333399?style=for-the-badge&logo=Redux)
+![Next](https://img.shields.io/badge/-Next-333399?style=for-the-badge&logo=Next)
 ![HTML](https://img.shields.io/badge/-HTML-330066?style=for-the-badge&logo=HTML)
 ![HTML5](https://img.shields.io/badge/-HTML5-330099?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-3300cc?style=for-the-badge&logo=CSS)
