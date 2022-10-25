@@ -27,6 +27,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-cc3300?style=plastic&logo=PHP)
 ![Firebase](https://img.shields.io/badge/-Firebase-cc3300?style=plastic&logo=Firebase)
 ![MUI](https://img.shields.io/badge/-MUI-cc3300?style=plastic&logo=MUI)
+![SCSS](https://img.shields.io/badge/-SCSS-cc3300?style=plastic&logo=SCSS)
 
 ### Мои контакты:
 ![img](https://github.com/MerzlyakovaNatalya/MerzlyakovaNatalya/blob/main/assets/phone.jpg) +7 (915) 195-81-27
