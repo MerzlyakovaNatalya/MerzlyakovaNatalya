@@ -11,6 +11,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-333399?style=for-the-badge&logo=Redux)
 ![Next](https://img.shields.io/badge/-Next-333399?style=for-the-badge&logo=Next)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000066?style=for-the-badge&logo=GraphQl)
+![Vue](https://img.shields.io/badge/-Vue-333399?style=for-the-badge&logo=Vue)
 ![HTML](https://img.shields.io/badge/-HTML-330066?style=for-the-badge&logo=HTML)
 ![HTML5](https://img.shields.io/badge/-HTML5-330099?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-3300cc?style=for-the-badge&logo=CSS)
@@ -22,7 +23,7 @@
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-ffcc00?style=for-the-badge&logo=appveyor)
 
 #### Не люблю стоять на месте! Дополнительно практиковала знания:
-![Vue.js](https://img.shields.io/badge/-Vue.js-cc3300?style=plastic&logo=Vue.js)
+![Vuex](https://img.shields.io/badge/-Vuex-cc3300?style=plastic&logo=Vuex)
 ![Node.js](https://img.shields.io/badge/-Node.js-cc3300?style=plastic&logo=Node.js)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-cc3300?style=plastic&logo=Jasmine)
 ![Webpack](https://img.shields.io/badge/-Webpack-cc3300?style=plastic&logo=Webpack)
