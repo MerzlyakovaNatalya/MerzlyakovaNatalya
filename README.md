@@ -4,6 +4,21 @@
 Я Фронтэнд-разработчик, программист, который занимается разработкой пользовательского интерфейса сайта и отвечает за единообразное отображение web-страниц в любом браузере.
 
 #### Технологии и знания, которые я часто использую в работе:
+####- JavaScript (ES6+), TypeScript
+####- HTML, CSS, SASS
+####- React, Next.js
+####- Redux, Redux Toolkit, Mobx
+####- RTK Query, Apollo GraphQl, REST
+####- Websockets, fetch/axios
+####- Ant Design, Material UI, Styled-components
+####- Express.js, SSR
+####- Playwright, Jest
+####- i18n
+####- ООП, SOLID
+####- Webpack, Vite
+####- Postman
+####- Canvas
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000099?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000099?style=for-the-badge&logo=TypeScript)
